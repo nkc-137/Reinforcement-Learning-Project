@@ -1,0 +1,2 @@
+PPO implementation in pytorch in pendulum v0 environment.
+Implementation is taken from https://github.com/higgsfield/RL-Adventure-2/blob/master/3.ppo.ipynb
